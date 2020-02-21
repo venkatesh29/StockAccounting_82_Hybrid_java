@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/Batch82/StockAccounting_Hybrid/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
